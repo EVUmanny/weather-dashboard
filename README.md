@@ -73,7 +73,7 @@ The Weather Dashboard is a Python-based application that fetches weather data fo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/EVUmanny/weather-dashboard.git
 cd weather-dashboard
 ```
 
